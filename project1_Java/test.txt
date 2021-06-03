@@ -1,0 +1,2 @@
+S[] = "Please come now to my apartment! We have a birthday party surprise for my roommate and I do not know what song to choose. Alison"
+LS[] = { {"now to", "later by"}, {"choose.","give!"}, {"we", "I"} }

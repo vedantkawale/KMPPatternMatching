@@ -1,0 +1,2 @@
+S[] = "Our newest students have been asked to stay today until the end of the classes. The old principal."
+LS[] = { {"new", "old"} , { "student", "teacher"}, {"to", "yester"}, {"old", "young"}, {"end", "beginning"},{"day", "night"}}
